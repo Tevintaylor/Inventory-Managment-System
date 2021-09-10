@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "756966248965",
+    "firebase_url": "https://inventman-4ef20.firebaseio.com",
+    "project_id": "inventman-4ef20",
+    "storage_bucket": "inventman-4ef20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756966248965:android:037af2b7134a6d5675426c",
+        "android_client_info": {
+          "package_name": "com.example.inventoryMan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756966248965-6v9q2jskemau8ou2sfh2itvhhr4kh1cm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrOnYcdwGGyKbSv75i0iJH5WDos6cvOpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756966248965-6v9q2jskemau8ou2sfh2itvhhr4kh1cm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

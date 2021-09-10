@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f53c34cf-061f-49d8-b20d-4dbf4b610304" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ProjectId" id="1kS99B44RQ4eozqFtPtQ8KrHdyg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="H:/dart-sdk" />
+    <property name="settings.editor.selected.configurable" value="dart.settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="L:\InventoryManagement" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/inventoryMan/lib/main.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/inventoryMan" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Dart Command Line App.main.dart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f53c34cf-061f-49d8-b20d-4dbf4b610304" name="Default Changelist" comment="" />
+      <created>1605682971850</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605682971850</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="260" y="424" key="#Dart" timestamp="1605772187508">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="260" y="424" key="#Dart/1920.-126.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1605772187508" />
+    <state x="840" y="360" key="#Notifications" timestamp="1605713659264">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="840" y="360" key="#Notifications/0.0.1920.1050@0.0.1920.1050" timestamp="1605713659264" />
+    <state x="0" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605772369324">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="0" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.-126.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1605772369324" />
+    <state x="740" y="279" key="FileChooserDialogImpl" timestamp="1605713823363">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="740" y="279" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1605713823363" />
+    <state x="740" y="279" key="FileChooserDialogImpl/1920.-126.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1605684105200" />
+    <state width="916" height="282" key="GridCell.Tab.0.bottom" timestamp="1605772386927">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="914" height="278" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1605715852526" />
+    <state width="916" height="282" key="GridCell.Tab.0.bottom/1920.-126.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1605772386927" />
+    <state width="916" height="282" key="GridCell.Tab.0.center" timestamp="1605772386927">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="914" height="278" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1605715852526" />
+    <state width="916" height="282" key="GridCell.Tab.0.center/1920.-126.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1605772386927" />
+    <state width="916" height="282" key="GridCell.Tab.0.left" timestamp="1605772386926">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="914" height="278" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1605715852526" />
+    <state width="916" height="282" key="GridCell.Tab.0.left/1920.-126.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1605772386926" />
+    <state width="916" height="282" key="GridCell.Tab.0.right" timestamp="1605772386927">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="914" height="278" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1605715852526" />
+    <state width="916" height="282" key="GridCell.Tab.0.right/1920.-126.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1605772386927" />
+    <state width="916" height="278" key="GridCell.Tab.1.bottom" timestamp="1605772386923">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="916" height="278" key="GridCell.Tab.1.bottom/1920.-126.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1605772386923" />
+    <state width="916" height="278" key="GridCell.Tab.1.center" timestamp="1605772386923">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="916" height="278" key="GridCell.Tab.1.center/1920.-126.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1605772386923" />
+    <state width="916" height="278" key="GridCell.Tab.1.left" timestamp="1605772386923">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="916" height="278" key="GridCell.Tab.1.left/1920.-126.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1605772386923" />
+    <state width="916" height="278" key="GridCell.Tab.1.right" timestamp="1605772386923">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="916" height="278" key="GridCell.Tab.1.right/1920.-126.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1605772386923" />
+    <state x="540" y="267" key="IDE.errors.dialog" timestamp="1605769855935">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="540" y="267" key="IDE.errors.dialog/1920.-126.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1605769855935" />
+    <state x="461" y="169" key="SettingsEditor" timestamp="1605713829683">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="461" y="169" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1605713829683" />
+    <state x="461" y="169" key="SettingsEditor/1920.-126.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1605684159384" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/InventoryManagement$main_dart.json" NAME="main.dart Coverage Results" MODIFIED="1605714026361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="DartCoverageRunner" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" CONTEXT_FILE_PATH="$PROJECT_DIR$/inventoryMan/lib/main.dart" />
+  </component>
+</project>
